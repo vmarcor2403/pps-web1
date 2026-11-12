@@ -50,7 +50,7 @@ No es necesario instalar dependencias ni configurar un entorno de desarrollo esp
 **1. Clonar el repositorio**
 
 ```bash
-git clone https://github.com/raulortegar/pps-web.git
+git clone https://github.com/vmarcor2403/pps-web1.git
 ```
 
 **2. Acceder al directorio**
@@ -76,7 +76,7 @@ http://localhost:8000
 ```
 [![imgur](https://i.imgur.com/5z7cvMz.gif)](https://rjshkhr.github.io/cleanfolio-minimal)
 
-[Live Demo](https://raulortegar.github.io/pps-web/)
+[Live Demo](https://vmarcor2403.github.io/pps-web1/)
 
 ## Objetivos de aprendizaje
 
