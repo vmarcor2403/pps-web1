@@ -97,6 +97,6 @@ Este proyecto utiliza la licencia **MIT**, que permite su uso, modificación y d
 
 <p align="center">
   <strong>pps-web</strong><br>
-  Proyecto académico · PPS
+  Proyecto académico de la asignatura PPS
 </p>
 
